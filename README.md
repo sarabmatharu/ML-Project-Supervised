@@ -6,8 +6,8 @@ Supervised Learning: use supervised learning techniques to build a machine learn
 
 ### Duration:
 Approximately 3 hours and 20 minutes.
-### Project Description:
 
+### Project Description:
 Diabetes, is a group of metabolic disorders in which there are high blood sugar levels over a prolonged period. In this project we are trying to predict if a patient has diabetes or not based on certain measures using machine learning model. Supervised learning techniques and data visualization tools are used to communicate the insights gained from the analysis. The data set for this project is the "Diabetes" dataset from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
 The project involves three main parts: 
